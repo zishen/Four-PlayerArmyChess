@@ -1,0 +1,1568 @@
+{
+  "version": 1,
+  "initial": [
+    {
+      "seat": 0,
+      "type": 0,
+      "x": 9,
+      "y": 0
+    },
+    {
+      "seat": 0,
+      "type": 1,
+      "x": 10,
+      "y": 5
+    },
+    {
+      "seat": 0,
+      "type": 2,
+      "x": 6,
+      "y": 2
+    },
+    {
+      "seat": 0,
+      "type": 3,
+      "x": 10,
+      "y": 3
+    },
+    {
+      "seat": 0,
+      "type": 3,
+      "x": 10,
+      "y": 1
+    },
+    {
+      "seat": 0,
+      "type": 4,
+      "x": 8,
+      "y": 2
+    },
+    {
+      "seat": 0,
+      "type": 4,
+      "x": 10,
+      "y": 0
+    },
+    {
+      "seat": 0,
+      "type": 5,
+      "x": 6,
+      "y": 5
+    },
+    {
+      "seat": 0,
+      "type": 5,
+      "x": 9,
+      "y": 5
+    },
+    {
+      "seat": 0,
+      "type": 6,
+      "x": 10,
+      "y": 2
+    },
+    {
+      "seat": 0,
+      "type": 6,
+      "x": 6,
+      "y": 1
+    },
+    {
+      "seat": 0,
+      "type": 7,
+      "x": 9,
+      "y": 3
+    },
+    {
+      "seat": 0,
+      "type": 7,
+      "x": 8,
+      "y": 0
+    },
+    {
+      "seat": 0,
+      "type": 7,
+      "x": 8,
+      "y": 1
+    },
+    {
+      "seat": 0,
+      "type": 8,
+      "x": 7,
+      "y": 3
+    },
+    {
+      "seat": 0,
+      "type": 8,
+      "x": 7,
+      "y": 1
+    },
+    {
+      "seat": 0,
+      "type": 8,
+      "x": 7,
+      "y": 5
+    },
+    {
+      "seat": 0,
+      "type": 9,
+      "x": 8,
+      "y": 5
+    },
+    {
+      "seat": 0,
+      "type": 9,
+      "x": 6,
+      "y": 4
+    },
+    {
+      "seat": 0,
+      "type": 9,
+      "x": 6,
+      "y": 3
+    },
+    {
+      "seat": 0,
+      "type": 10,
+      "x": 7,
+      "y": 0
+    },
+    {
+      "seat": 0,
+      "type": 10,
+      "x": 6,
+      "y": 0
+    },
+    {
+      "seat": 0,
+      "type": 10,
+      "x": 9,
+      "y": 1
+    },
+    {
+      "seat": 0,
+      "type": 11,
+      "x": 8,
+      "y": 4
+    },
+    {
+      "seat": 0,
+      "type": 11,
+      "x": 10,
+      "y": 4
+    },
+    {
+      "seat": 1,
+      "type": 0,
+      "x": 16,
+      "y": 9
+    },
+    {
+      "seat": 1,
+      "type": 1,
+      "x": 12,
+      "y": 8
+    },
+    {
+      "seat": 1,
+      "type": 2,
+      "x": 14,
+      "y": 8
+    },
+    {
+      "seat": 1,
+      "type": 3,
+      "x": 15,
+      "y": 10
+    },
+    {
+      "seat": 1,
+      "type": 3,
+      "x": 16,
+      "y": 7
+    },
+    {
+      "seat": 1,
+      "type": 4,
+      "x": 15,
+      "y": 6
+    },
+    {
+      "seat": 1,
+      "type": 4,
+      "x": 15,
+      "y": 8
+    },
+    {
+      "seat": 1,
+      "type": 5,
+      "x": 12,
+      "y": 6
+    },
+    {
+      "seat": 1,
+      "type": 5,
+      "x": 11,
+      "y": 8
+    },
+    {
+      "seat": 1,
+      "type": 6,
+      "x": 13,
+      "y": 7
+    },
+    {
+      "seat": 1,
+      "type": 6,
+      "x": 16,
+      "y": 10
+    },
+    {
+      "seat": 1,
+      "type": 7,
+      "x": 11,
+      "y": 10
+    },
+    {
+      "seat": 1,
+      "type": 7,
+      "x": 13,
+      "y": 10
+    },
+    {
+      "seat": 1,
+      "type": 7,
+      "x": 11,
+      "y": 7
+    },
+    {
+      "seat": 1,
+      "type": 8,
+      "x": 14,
+      "y": 10
+    },
+    {
+      "seat": 1,
+      "type": 8,
+      "x": 11,
+      "y": 6
+    },
+    {
+      "seat": 1,
+      "type": 8,
+      "x": 13,
+      "y": 6
+    },
+    {
+      "seat": 1,
+      "type": 9,
+      "x": 15,
+      "y": 7
+    },
+    {
+      "seat": 1,
+      "type": 9,
+      "x": 12,
+      "y": 10
+    },
+    {
+      "seat": 1,
+      "type": 9,
+      "x": 11,
+      "y": 9
+    },
+    {
+      "seat": 1,
+      "type": 10,
+      "x": 16,
+      "y": 8
+    },
+    {
+      "seat": 1,
+      "type": 10,
+      "x": 16,
+      "y": 6
+    },
+    {
+      "seat": 1,
+      "type": 10,
+      "x": 15,
+      "y": 9
+    },
+    {
+      "seat": 1,
+      "type": 11,
+      "x": 14,
+      "y": 6
+    },
+    {
+      "seat": 1,
+      "type": 11,
+      "x": 13,
+      "y": 9
+    },
+    {
+      "seat": 2,
+      "type": 0,
+      "x": 7,
+      "y": 16
+    },
+    {
+      "seat": 2,
+      "type": 1,
+      "x": 9,
+      "y": 15
+    },
+    {
+      "seat": 2,
+      "type": 2,
+      "x": 10,
+      "y": 14
+    },
+    {
+      "seat": 2,
+      "type": 3,
+      "x": 6,
+      "y": 14
+    },
+    {
+      "seat": 2,
+      "type": 3,
+      "x": 8,
+      "y": 14
+    },
+    {
+      "seat": 2,
+      "type": 4,
+      "x": 6,
+      "y": 12
+    },
+    {
+      "seat": 2,
+      "type": 4,
+      "x": 10,
+      "y": 16
+    },
+    {
+      "seat": 2,
+      "type": 5,
+      "x": 6,
+      "y": 13
+    },
+    {
+      "seat": 2,
+      "type": 5,
+      "x": 9,
+      "y": 11
+    },
+    {
+      "seat": 2,
+      "type": 6,
+      "x": 10,
+      "y": 15
+    },
+    {
+      "seat": 2,
+      "type": 6,
+      "x": 6,
+      "y": 11
+    },
+    {
+      "seat": 2,
+      "type": 7,
+      "x": 8,
+      "y": 12
+    },
+    {
+      "seat": 2,
+      "type": 7,
+      "x": 7,
+      "y": 11
+    },
+    {
+      "seat": 2,
+      "type": 7,
+      "x": 8,
+      "y": 15
+    },
+    {
+      "seat": 2,
+      "type": 8,
+      "x": 7,
+      "y": 15
+    },
+    {
+      "seat": 2,
+      "type": 8,
+      "x": 6,
+      "y": 15
+    },
+    {
+      "seat": 2,
+      "type": 8,
+      "x": 9,
+      "y": 13
+    },
+    {
+      "seat": 2,
+      "type": 9,
+      "x": 10,
+      "y": 13
+    },
+    {
+      "seat": 2,
+      "type": 9,
+      "x": 10,
+      "y": 11
+    },
+    {
+      "seat": 2,
+      "type": 9,
+      "x": 8,
+      "y": 11
+    },
+    {
+      "seat": 2,
+      "type": 10,
+      "x": 6,
+      "y": 16
+    },
+    {
+      "seat": 2,
+      "type": 10,
+      "x": 8,
+      "y": 16
+    },
+    {
+      "seat": 2,
+      "type": 10,
+      "x": 9,
+      "y": 16
+    },
+    {
+      "seat": 2,
+      "type": 11,
+      "x": 10,
+      "y": 12
+    },
+    {
+      "seat": 2,
+      "type": 11,
+      "x": 7,
+      "y": 13
+    },
+    {
+      "seat": 3,
+      "type": 0,
+      "x": 0,
+      "y": 7
+    },
+    {
+      "seat": 3,
+      "type": 1,
+      "x": 5,
+      "y": 10
+    },
+    {
+      "seat": 3,
+      "type": 2,
+      "x": 5,
+      "y": 8
+    },
+    {
+      "seat": 3,
+      "type": 3,
+      "x": 3,
+      "y": 7
+    },
+    {
+      "seat": 3,
+      "type": 3,
+      "x": 2,
+      "y": 10
+    },
+    {
+      "seat": 3,
+      "type": 4,
+      "x": 5,
+      "y": 7
+    },
+    {
+      "seat": 3,
+      "type": 4,
+      "x": 2,
+      "y": 6
+    },
+    {
+      "seat": 3,
+      "type": 5,
+      "x": 3,
+      "y": 6
+    },
+    {
+      "seat": 3,
+      "type": 5,
+      "x": 0,
+      "y": 6
+    },
+    {
+      "seat": 3,
+      "type": 6,
+      "x": 4,
+      "y": 8
+    },
+    {
+      "seat": 3,
+      "type": 6,
+      "x": 5,
+      "y": 6
+    },
+    {
+      "seat": 3,
+      "type": 7,
+      "x": 1,
+      "y": 10
+    },
+    {
+      "seat": 3,
+      "type": 7,
+      "x": 1,
+      "y": 6
+    },
+    {
+      "seat": 3,
+      "type": 7,
+      "x": 0,
+      "y": 10
+    },
+    {
+      "seat": 3,
+      "type": 8,
+      "x": 0,
+      "y": 8
+    },
+    {
+      "seat": 3,
+      "type": 8,
+      "x": 3,
+      "y": 10
+    },
+    {
+      "seat": 3,
+      "type": 8,
+      "x": 4,
+      "y": 6
+    },
+    {
+      "seat": 3,
+      "type": 9,
+      "x": 1,
+      "y": 7
+    },
+    {
+      "seat": 3,
+      "type": 9,
+      "x": 5,
+      "y": 9
+    },
+    {
+      "seat": 3,
+      "type": 9,
+      "x": 4,
+      "y": 10
+    },
+    {
+      "seat": 3,
+      "type": 10,
+      "x": 1,
+      "y": 8
+    },
+    {
+      "seat": 3,
+      "type": 10,
+      "x": 0,
+      "y": 9
+    },
+    {
+      "seat": 3,
+      "type": 10,
+      "x": 1,
+      "y": 9
+    },
+    {
+      "seat": 3,
+      "type": 11,
+      "x": 3,
+      "y": 9
+    },
+    {
+      "seat": 3,
+      "type": 11,
+      "x": 2,
+      "y": 8
+    }
+  ],
+  "moves": [
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 12,
+      "to_x": 9,
+      "to_y": 12,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 2,
+      "from_y": 8,
+      "to_x": 2,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 8,
+      "from_y": 2,
+      "to_x": 7,
+      "to_y": 2,
+      "note": "移动"
+    },
+    {
+      "seat": 1,
+      "from_x": 11,
+      "from_y": 6,
+      "to_x": 10,
+      "to_y": 5,
+      "note": "被吃"
+    },
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 11,
+      "to_x": 12,
+      "to_y": 6,
+      "note": "被吃"
+    },
+    {
+      "seat": 3,
+      "from_x": 5,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 11,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 5,
+      "to_x": 12,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 11,
+      "from_y": 10,
+      "to_x": 10,
+      "to_y": 13,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 2,
+      "from_x": 9,
+      "from_y": 13,
+      "to_x": 9,
+      "to_y": 14,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 12,
+      "from_y": 6,
+      "to_x": 13,
+      "to_y": 7,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 14,
+      "from_y": 6,
+      "to_x": 13,
+      "to_y": 7,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 2,
+      "from_x": 7,
+      "from_y": 13,
+      "to_x": 7,
+      "to_y": 12,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 6,
+      "from_y": 10,
+      "to_x": 8,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 4,
+      "to_x": 13,
+      "to_y": 6,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 1,
+      "from_x": 15,
+      "from_y": 6,
+      "to_x": 10,
+      "to_y": 3,
+      "note": "被吃"
+    },
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 14,
+      "to_x": 10,
+      "to_y": 13,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 3,
+      "from_x": 6,
+      "from_y": 11,
+      "to_x": 7,
+      "to_y": 11,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 3,
+      "to_x": 16,
+      "to_y": 6,
+      "note": "触雷阵亡"
+    },
+    {
+      "seat": 1,
+      "from_x": 12,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 12,
+      "note": "被吃"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 12,
+      "to_x": 3,
+      "to_y": 10,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 3,
+      "from_x": 2,
+      "from_y": 10,
+      "to_x": 3,
+      "to_y": 10,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 6,
+      "from_y": 5,
+      "to_x": 5,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 11,
+      "from_y": 9,
+      "to_x": 6,
+      "to_y": 4,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 2,
+      "from_x": 8,
+      "from_y": 11,
+      "to_x": 15,
+      "to_y": 7,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 3,
+      "from_x": 5,
+      "from_y": 7,
+      "to_x": 5,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 6,
+      "from_y": 3,
+      "to_x": 13,
+      "to_y": 10,
+      "note": "被吃"
+    },
+    {
+      "seat": 1,
+      "from_x": 13,
+      "from_y": 10,
+      "to_x": 8,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 9,
+      "from_y": 14,
+      "to_x": 8,
+      "to_y": 13,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 7,
+      "from_y": 11,
+      "to_x": 9,
+      "to_y": 11,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 6,
+      "from_y": 2,
+      "to_x": 5,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 11,
+      "from_y": 8,
+      "to_x": 12,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 13,
+      "to_x": 10,
+      "to_y": 11,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 9,
+      "from_y": 11,
+      "to_x": 10,
+      "to_y": 11,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 5,
+      "from_y": 6,
+      "to_x": 4,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 11,
+      "from_y": 7,
+      "to_x": 12,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 9,
+      "from_y": 12,
+      "to_x": 10,
+      "to_y": 11,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 3,
+      "from_x": 3,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 13,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 4,
+      "from_y": 6,
+      "to_x": 3,
+      "to_y": 7,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 14,
+      "from_y": 10,
+      "to_x": 10,
+      "to_y": 15,
+      "note": "被吃"
+    },
+    {
+      "seat": 2,
+      "from_x": 8,
+      "from_y": 14,
+      "to_x": 7,
+      "to_y": 14,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 8,
+      "from_y": 6,
+      "to_x": 10,
+      "to_y": 2,
+      "note": "被吃"
+    },
+    {
+      "seat": 0,
+      "from_x": 8,
+      "from_y": 5,
+      "to_x": 16,
+      "to_y": 6,
+      "note": "工兵排雷"
+    },
+    {
+      "seat": 1,
+      "from_x": 15,
+      "from_y": 10,
+      "to_x": 10,
+      "to_y": 15,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 14,
+      "to_x": 6,
+      "to_y": 13,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 3,
+      "from_x": 1,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 15,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 16,
+      "from_y": 6,
+      "to_x": 5,
+      "to_y": 9,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 1,
+      "from_x": 10,
+      "from_y": 15,
+      "to_x": 10,
+      "to_y": 2,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 2,
+      "from_x": 9,
+      "from_y": 15,
+      "to_x": 10,
+      "to_y": 15,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 6,
+      "from_y": 15,
+      "to_x": 7,
+      "to_y": 15,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 3,
+      "from_y": 7,
+      "to_x": 2,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 10,
+      "from_y": 2,
+      "to_x": 9,
+      "to_y": 1,
+      "note": "触雷阵亡"
+    },
+    {
+      "seat": 2,
+      "from_x": 7,
+      "from_y": 14,
+      "to_x": 7,
+      "to_y": 15,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 3,
+      "from_x": 0,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 16,
+      "note": "触雷阵亡"
+    },
+    {
+      "seat": 0,
+      "from_x": 6,
+      "from_y": 1,
+      "to_x": 3,
+      "to_y": 6,
+      "note": "被吃"
+    },
+    {
+      "seat": 1,
+      "from_x": 16,
+      "from_y": 10,
+      "to_x": 10,
+      "to_y": 15,
+      "note": "被吃"
+    },
+    {
+      "seat": 2,
+      "from_x": 8,
+      "from_y": 15,
+      "to_x": 7,
+      "to_y": 14,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 3,
+      "from_y": 6,
+      "to_x": 6,
+      "to_y": 0,
+      "note": "触雷阵亡"
+    },
+    {
+      "seat": 0,
+      "from_x": 2,
+      "from_y": 6,
+      "to_x": 1,
+      "to_y": 7,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 1,
+      "from_x": 8,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 7,
+      "from_y": 14,
+      "to_x": 6,
+      "to_y": 13,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 2,
+      "from_y": 7,
+      "to_x": 1,
+      "to_y": 7,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 1,
+      "to_x": 10,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 1,
+      "from_x": 6,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 13,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 2,
+      "from_x": 8,
+      "from_y": 13,
+      "to_x": 7,
+      "to_y": 14,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 3,
+      "from_y": 9,
+      "to_x": 4,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 10,
+      "to_x": 16,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 1,
+      "from_x": 12,
+      "from_y": 8,
+      "to_x": 13,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 15,
+      "to_x": 14,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 1,
+      "from_y": 6,
+      "to_x": 6,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 16,
+      "from_y": 10,
+      "to_x": 16,
+      "to_y": 9,
+      "note": "占领军旗"
+    },
+    {
+      "seat": 2,
+      "from_x": 14,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 6,
+      "from_y": 6,
+      "to_x": 3,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 0,
+      "to_x": 10,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 10,
+      "to_x": 6,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 5,
+      "from_y": 8,
+      "to_x": 4,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 10,
+      "from_y": 10,
+      "to_x": 14,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 6,
+      "to_x": 3,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 7,
+      "to_x": 3,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 14,
+      "from_y": 10,
+      "to_x": 14,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 3,
+      "from_y": 6,
+      "to_x": 2,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 0,
+      "from_y": 6,
+      "to_x": 6,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 14,
+      "from_y": 9,
+      "to_x": 13,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 7,
+      "from_y": 15,
+      "to_x": 6,
+      "to_y": 15,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 8,
+      "to_x": 4,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 13,
+      "from_y": 8,
+      "to_x": 12,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 15,
+      "to_x": 6,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 7,
+      "to_x": 5,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 12,
+      "from_y": 7,
+      "to_x": 13,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 16,
+      "to_x": 10,
+      "to_y": 15,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 5,
+      "from_y": 7,
+      "to_x": 5,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 13,
+      "from_y": 7,
+      "to_x": 14,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 6,
+      "to_x": 6,
+      "to_y": 15,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 5,
+      "from_y": 10,
+      "to_x": 8,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 14,
+      "from_y": 7,
+      "to_x": 13,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 10,
+      "from_y": 15,
+      "to_x": 15,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 8,
+      "from_y": 10,
+      "to_x": 15,
+      "to_y": 10,
+      "note": "被吃"
+    },
+    {
+      "seat": 0,
+      "from_x": 13,
+      "from_y": 8,
+      "to_x": 12,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 15,
+      "from_y": 10,
+      "to_x": 1,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 3,
+      "from_y": 8,
+      "to_x": 4,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 12,
+      "from_y": 9,
+      "to_x": 13,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 1,
+      "from_y": 10,
+      "to_x": 2,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 7,
+      "to_x": 5,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 13,
+      "from_y": 10,
+      "to_x": 14,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 6,
+      "from_y": 15,
+      "to_x": 6,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 5,
+      "from_y": 6,
+      "to_x": 6,
+      "to_y": 6,
+      "note": "吃子成功"
+    },
+    {
+      "seat": 0,
+      "from_x": 14,
+      "from_y": 9,
+      "to_x": 13,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 7,
+      "from_y": 12,
+      "to_x": 6,
+      "to_y": 13,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 6,
+      "from_y": 6,
+      "to_x": 6,
+      "to_y": 13,
+      "note": "同归于尽"
+    },
+    {
+      "seat": 0,
+      "from_x": 13,
+      "from_y": 8,
+      "to_x": 14,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 2,
+      "from_y": 9,
+      "to_x": 3,
+      "to_y": 10,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 9,
+      "to_x": 3,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 14,
+      "from_y": 7,
+      "to_x": 15,
+      "to_y": 8,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 3,
+      "from_y": 10,
+      "to_x": 2,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 3,
+      "from_y": 8,
+      "to_x": 4,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 15,
+      "from_y": 8,
+      "to_x": 15,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 2,
+      "from_y": 7,
+      "to_x": 1,
+      "to_y": 7,
+      "note": "移动"
+    },
+    {
+      "seat": 3,
+      "from_x": 4,
+      "from_y": 7,
+      "to_x": 5,
+      "to_y": 6,
+      "note": "移动"
+    },
+    {
+      "seat": 0,
+      "from_x": 15,
+      "from_y": 9,
+      "to_x": 14,
+      "to_y": 9,
+      "note": "移动"
+    },
+    {
+      "seat": 2,
+      "from_x": 1,
+      "from_y": 7,
+      "to_x": 0,
+      "to_y": 7,
+      "note": "占领军旗"
+    }
+  ],
+  "winner": "α队(1、3号位)"
+}
