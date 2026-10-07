@@ -91,7 +91,7 @@ func Run() {
 	var moveList *walk.ListBox
 	var actEasy, actMedium, actHard, actLLM *walk.Action
 	err = MainWindow{
-		AssignTo: &mw, Title: "四国军棋", MinSize: Size{Width: 1000, Height: 780}, Layout: VBox{MarginsZero: true},
+		AssignTo: &mw, Title: "四国军棋", MinSize: Size{Width: 1000, Height: 780}, Size: Size{Width: 1200, Height: 780}, Layout: VBox{MarginsZero: true},
 		MenuItems: []MenuItem{
 			Menu{Text: "游戏", Items: []MenuItem{
 				Action{Text: "开始游戏", OnTriggered: func() { w.startGame() }},
